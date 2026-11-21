@@ -1,4 +1,4 @@
-# 🛡️ DIGITAL ALIBI: AI Digital Evidence Investigator
+#  DIGITAL ALIBI: AI Digital Evidence Investigator
 
 > *"Every Digital Trace Tells a Story."*
 
@@ -6,24 +6,24 @@
 
 ---
 
-## 🧭 Complete Workstation Navigation Modules
+##  Complete Workstation Navigation Modules
 
 | Module | Icon | Description |
 | :--- | :---: | :--- |
-| **Dashboard** | 📊 | Operational command center, dynamic telemetry statistics cards (investigations, evidence files, milestones, contradictions, data volume), Plotly charts, and recent activity. |
-| **New Investigation** | 📁 | Case intake form with multi-file drag-and-drop vault supporting images, logs, and CSVs with real-time SHA-256 calculation. |
-| **Evidence Vault** | 📦 | Preserved evidence cards with SHA-256 hashes, bitstream previews for images and text logs, and classification filters. |
-| **Timeline Analysis** | ⏳ | Chronological interactive vertical timeline with confidence labels (`Directly Observed`, `User-Reported`, `AI-Inferred`, `Unknown`). |
-| **AI Investigation** | 🧠 | Gemini-powered Digital Story Reconstruction, Contradiction Matrix, and Missing Evidence discovery. |
-| **Evidence Integrity** | 🔒 | Dedicated cryptographic tamper verification tool allowing examiners to upload any file to verify bitstream authenticity against the sealed ledger. |
-| **Investigation Reports** | 📑 | Court-admissible report preview with working PDF, JSON, and CSV exports. |
-| **About Digital Alibi** | ℹ️ | Project mission, objectives, uniqueness vs. traditional government complaint portals, working process, and technology stack. |
-| **Help & Privacy** | 🛡️ | Step-by-step examiner user guide, evidence data privacy policy, and statutory AI disclaimer. |
-| **Logout** | 🚪 | Securely lock the workstation and return to the login portal. |
+| **Dashboard** |  | Operational command center, dynamic telemetry statistics cards (investigations, evidence files, milestones, contradictions, data volume), Plotly charts, and recent activity. |
+| **New Investigation** | | Case intake form with multi-file drag-and-drop vault supporting images, logs, and CSVs with real-time SHA-256 calculation. |
+| **Evidence Vault** |  | Preserved evidence cards with SHA-256 hashes, bitstream previews for images and text logs, and classification filters. |
+| **Timeline Analysis** |  | Chronological interactive vertical timeline with confidence labels (`Directly Observed`, `User-Reported`, `AI-Inferred`, `Unknown`). |
+| **AI Investigation** | | Gemini-powered Digital Story Reconstruction, Contradiction Matrix, and Missing Evidence discovery. |
+| **Evidence Integrity** | | Dedicated cryptographic tamper verification tool allowing examiners to upload any file to verify bitstream authenticity against the sealed ledger. |
+| **Investigation Reports** |  | Court-admissible report preview with working PDF, JSON, and CSV exports. |
+| **About Digital Alibi** |  | Project mission, objectives, uniqueness vs. traditional government complaint portals, working process, and technology stack. |
+| **Help & Privacy** |  | Step-by-step examiner user guide, evidence data privacy policy, and statutory AI disclaimer. |
+| **Logout** |  | Securely lock the workstation and return to the login portal. |
 
 ---
 
-## 🎨 Theme & Cyber-Forensics Workstation Styling
+##  Theme & Cyber-Forensics Workstation Styling
 
 - **Main Background:** `#080F1E` (Dark Navy)
 - **Sidebar Surface:** `#0D1729` (Deep Slate)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Beginner-Friendly Installation & Running Guide
+##  Beginner-Friendly Installation & Running Guide
 
 ### 1. Prerequisites
 Ensure you have **Python 3.10+** installed on your system.
@@ -60,5 +60,5 @@ Open your browser at `http://localhost:8503` and click **"⚡ Without Sign In"**
 
 ---
 
-## ⚖️ Legal & Ethical Safeguard
+##  Legal & Ethical Safeguard
 *DIGITAL ALIBI is an investigative support platform designed to assist human examiners with multi-source evidence correlation under Federal Rules of Evidence Rule 902(14). AI correlation results identify evidentiary inconsistencies and temporal patterns; they do not establish legal guilt, prove a crime, or replace certified human forensic expert verification.*
