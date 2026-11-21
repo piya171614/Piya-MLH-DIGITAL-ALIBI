@@ -1,26 +1,17 @@
-#  DIGITAL ALIBI: AI Digital Evidence Investigator
+### **Project Modules**
 
-> *"Every Digital Trace Tells a Story."*
-
-**DIGITAL ALIBI** is an autonomous cyber-forensics platform built with **Python Streamlit** and the official **Google Gen AI Python SDK (`google-genai`)**. It correlates multi-source digital evidence (system syslogs, cellular tower CDR dumps, surveillance CCTV frames, encrypted chat transcripts, Wi-Fi RADIUS sessions) to reconstruct verified chronological timelines, detect investigative blind spots, and identify factual contradictions against suspect alibis.
-
----
-
-##  Complete Workstation Navigation Modules
-
-| Module |Description |
-| :--- | :---: | :--- |
-| **Dashboard**   | Operational command center, dynamic telemetry statistics cards (investigations, evidence files, milestones, contradictions, data volume), Plotly charts, and recent activity. |
-| **New Investigation** | Case intake form with multi-file drag-and-drop vault supporting images, logs, and CSVs with real-time SHA-256 calculation. |
-| **Evidence Vault** | Preserved evidence cards with SHA-256 hashes, bitstream previews for images and text logs, and classification filters. |
-| **Timeline Analysis** |  Chronological interactive vertical timeline with confidence labels (`Directly Observed`, `User-Reported`, `AI-Inferred`, `Unknown`). |
-| **AI Investigation** |  Gemini-powered Digital Story Reconstruction, Contradiction Matrix, and Missing Evidence discovery. |
-| **Evidence Integrity** | Dedicated cryptographic tamper verification tool allowing examiners to upload any file to verify bitstream authenticity against the sealed ledger. |
-| **Investigation Reports** |   Court-admissible report preview with working PDF, JSON, and CSV exports. |
-| **About Digital Alibi** |  Project mission, objectives, uniqueness vs. traditional government complaint portals, working process, and technology stack. |
-| **Help & Privacy** | Step-by-step examiner user guide, evidence data privacy policy, and statutory AI disclaimer. |
-| **Logout** | Securely lock the workstation and return to the login portal. |
-
+| Module                    | Description                                                                                                                                                                       |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dashboard**             | Operational command center featuring dynamic statistics cards for investigations, evidence files, milestones, contradictions, and data volume; Plotly charts and recent activity. |
+| **New Investigation**     | Case intake form with multi-file drag-and-drop upload support for images, logs, and CSVs, including real-time SHA-256 hash calculation.                                           |
+| **Evidence Vault**        | Preserved evidence cards displaying SHA-256 hashes, image and text-log previews, and classification filters.                                                                      |
+| **Timeline Analysis**     | Interactive chronological vertical timeline with confidence labels: `Directly Observed`, `User-Reported`, `AI-Inferred`, and `Unknown`.                                           |
+| **AI Investigation**      | Gemini-powered Digital Story Reconstruction, Contradiction Matrix, and Missing Evidence Discovery.                                                                                |
+| **Evidence Integrity**    | Cryptographic tamper-verification tool that allows examiners to upload files and verify their hashes against the sealed evidence ledger.                                          |
+| **Investigation Reports** | Professional investigation report preview with PDF, JSON, and CSV export options.                                                                                                 |
+| **About Digital Alibi**   | Project mission, objectives, uniqueness compared with traditional government complaint portals, investigation workflow, and technology stack.                                     |
+| **Help & Privacy**        | Step-by-step user guide, evidence privacy policy, and statutory AI disclaimer.                                                                                                    |
+| **Logout**                | Securely locks the workstation and returns the user to the login portal.                                                                                                          |
 ---
 
 ##  Theme & Cyber-Forensics Workstation Styling
